@@ -31,6 +31,9 @@ Age group and gender-based insights.
 Overtime and salary impact analysis.
 Interactive filters for dynamic data exploration.
 
+## 🖼️ Dashboard Preview
+![HR analytics Dashboard](https://github.com/Aryanair10/HR_Analytics/blob/main/hr.png)
+
 ## 🛠 Tools Used
 
 * Microsoft Power BI
